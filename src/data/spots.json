@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "name": "Caffeine",
+        "position": { "lat": 54.686062030974796, "lng": 25.2849820619426747 },
+        "address": "Gedimino pr. 2, 01103 Vilnius",
+        "category": "coffeeshop"
+    },
+    {
+        "id": 2,
+        "name": "Caffeine",
+        "position": { "lat": 54.68658063885158, "lng": 25.279308946037172 },
+        "address": "Vilniaus g. 17, 01402 Vilnius",
+        "category": "coffeeshop"
+    },
+    {
+        "id": 3,
+        "name": "Caffeine",
+        "position": { "lat": 54.69144266037652, "lng": 25.263691842225796 },
+        "address": "Gedimino pr. 51, 01103 Vilnius",
+        "category": "coffeeshop"
+    },
+    {
+        "id": 4,
+        "name": "Caffeine",
+        "position": { "lat": 54.68420694331071, "lng": 25.27925938334602 },
+        "address": "Vilniaus gatvė 31, Islandijos g. 1, 01402 Vilnius",
+        "category": "coffeeshop"
+    },
+    {
+        "id": 5,
+        "name": "Caffeine",
+        "position": { "lat": 54.682909122038, "lng": 25.265290438796452 },
+        "address": "V. Kudirkos g. 1, 03104 Vilnius",
+        "category": "coffeeshop"
+    },
+    {
+        "id": 6,
+        "name": "Caffeine",
+        "position": { "lat": 54.684223999149644, "lng": 25.289451777777582 },
+        "address": "Pilies g. 3, 01123 Vilnius",
+        "category": "coffeeshop"
+    },
+    {
+        "id": 7,
+        "name": "Caffeine",
+        "position": { "lat": 54.680155184609376, "lng": 25.28859347080795 },
+        "address": "Didžioji g. 10, 01128 Vilnius",
+        "category": "coffeeshop"
+    },
+    {
+        "id": 8,
+        "name": "Caffeine",
+        "position": { "lat": 54.67923716397285, "lng": 25.283744036935083 },
+        "address": "Vokiečių g. 18, 01130 Vilnius",
+        "category": "coffeeshop"
+    },
+    {
+        "id": 9,
+        "name": "Caffeine",
+        "position": { "lat": 54.678945626051416, "lng": 25.27732819285679 },
+        "address": "Pylimo g. 19, 01141 Vilnius",
+        "category": "coffeeshop"
+    },
+    {
+        "id": 10,
+        "name": "Vero Cafe",
+        "position": { "lat": 54.68619623516246, "lng": 25.285445300482138 },
+        "address": "Gedimino pr. 1, 01103 Vilnius",
+        "category": "coffeeshop"
+    },
+    {
+        "id": 11,
+        "name": "Vero Cafe",
+        "position": { "lat": 54.68389892525552, "lng": 25.289580663068396 },
+        "address": "Pilies g. 10, 01124 Vilnius",
+        "category": "coffeeshop"
+    },
+    {
+        "id": 12,
+        "name": "Vero Cafe",
+        "position": { "lat": 54.68803165709093, "lng": 25.27495545741486 },
+        "address": "Gedimino pr. 27, 01105 Vilnius",
+        "category": "coffeeshop"
+    },
+    {
+        "id": 13,
+        "name": "Vero Cafe",
+        "position": { "lat": 54.679232483296346, "lng": 25.25908438914564 },
+        "address": "Savanorių pr. 6b, 03116 Vilnius",
+        "category": "coffeeshop"
+    },
+    {
+        "id": 14,
+        "name": "Strange Love",
+        "position": { "lat": 54.68508666590547, "lng": 25.29351779089903 },
+        "address": "Barboros Radvilaitės g. 6B, 01143 Vilnius",
+        "category": "coffeeshop"
+    },
+    {
+        "id": 15,
+        "name": "Caif Cafe",
+        "position": { "lat": 54.68648988106183, "lng": 25.283923955741606 },
+        "address": "01103, Gedimino pr. 3a, 01103 Vilnius",
+        "category": "coffeeshop"
+    },
+    {
+        "id": 15,
+        "name": "Huracán",
+        "position": { "lat": 54.686542232772865, "lng": 25.281957954262737 },
+        "address": "Totorių g. 1, Gedimino pr. 10, 01103 Vilnius",
+        "category": "coffeeshop"
+    }
+]
